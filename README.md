@@ -20,7 +20,7 @@
 
 <img width="879" height="376" alt="image" src="https://github.com/user-attachments/assets/a87fd816-a0b5-4264-b01c-9466eae90723" />
 
-> 本项目基于 [一泽Eze](https://github.com/eze-is) 的 [web-access](https://github.com/eze-is/web-access)  Fork 并扩展，感谢原作者的出色工作。
+> **本项目基于 [一泽Eze](https://github.com/eze-is) 的 [web-access](https://github.com/eze-is/web-access)  Fork 并扩展，感谢原作者的出色工作。**
 
 给 Claude Code 装上完整联网能力的 skill。
 
