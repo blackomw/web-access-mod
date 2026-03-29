@@ -20,6 +20,8 @@
 
 <img width="879" height="376" alt="image" src="https://github.com/user-attachments/assets/a87fd816-a0b5-4264-b01c-9466eae90723" />
 
+> 本项目基于 [一泽Eze](https://github.com/eze-is) 的 [web-access](https://github.com/eze-is/web-access)  Fork 并扩展，感谢原作者的出色工作。
+
 给 Claude Code 装上完整联网能力的 skill。
 
 Claude Code 原本有 WebSearch、WebFetch，但缺少调度策略和浏览器自动化能力。这个 skill 补上的是：**联网策略 + CDP 浏览器操作 + 站点经验积累**。
@@ -148,8 +150,4 @@ node ~/.claude/skills/web-access/scripts/browser-commands.mjs errors [--clear]  
 
 MIT · 作者：[一泽 Eze](https://github.com/eze-is)
 
-## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=eze-is/web-access&type=Date)](https://star-history.com/#eze-is/web-access&Date)
-
-<img width="1280" height="306" alt="image" src="https://github.com/user-attachments/assets/2afa25c2-3730-413e-b40f-94e52567249d" />
